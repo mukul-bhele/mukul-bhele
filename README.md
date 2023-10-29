@@ -27,6 +27,13 @@ Welcome to my GitHub! I'm passionate about leveraging data to uncover insights a
 ### 📈 GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mukul-bhele&show_icons=true&theme=radical" alt="Your GitHub Stats" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukul-bhele&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mukul-bhele&theme=radical)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mukul-bhele&theme=radical)
+
+
 
 ### 💡 Fun Fact
 [Add a quirky or interesting fact about yourself or your interests.]
