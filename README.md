@@ -25,7 +25,8 @@ Welcome to my GitHub! I'm passionate about leveraging data to uncover insights a
 - [Email](Your Email Address)
 
 ### 📈 GitHub Stats
-[Include statistics here if you wish, such as top languages, stars, commits, etc.]
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mukul-bhele&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+
 
 ### 💡 Fun Fact
 [Add a quirky or interesting fact about yourself or your interests.]
