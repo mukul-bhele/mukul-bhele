@@ -5,10 +5,10 @@
 Welcome to my GitHub! I'm passionate about leveraging data to uncover insights and solve complex problems.
 
 ### 🔍 About Me
-- 🌱 Data enthusiast exploring the realms of analytics, visualization, and machine learning.
-- 💼 Working as a Data Analyst Intern at Innodatatics.
-- 🎓 Background in Materials Engineering from Indian Instiute of Technology Jodhpur.
-- 🚀 Actively seeking opportunities to innovate and make an impact through data-driven solutions.
+- 🌱 Passionate about delving into the multifaceted realms of data analytics, visualization, and machine learning to unearth insightful patterns and trends.
+- 💼 Currently leveraging my skills as a Data Analyst Intern at Innodatatics, contributing to dynamic projects and honing my expertise.
+- 🎓 Graduated with a degree in Materials Engineering from the esteemed Indian Institute of Technology Jodhpur, fostering a strong foundation for technical analysis and problem-solving.
+- 🚀 Enthusiastically seeking opportunities to drive innovation and create substantial impacts through the application of data-driven solutions.
 
 ### 📊 Skills & Expertise
 - Data Analysis
