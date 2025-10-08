@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Mukul Bhele
 ## 🚀 About Me
-I’m a Data Scientist passionate about extracting insights and building data-driven solutions. Skilled in Python, SQL, Excel, Power BI, and Tableau, with experience across recommendation systems, search relevance modeling, inventory optimization & forecasting, review intent analysis, and OCR-based PDF data extraction. I’ve also created several automation workflows and interactive dashboards that streamline decision-making and reporting.
+I’m a Data Scientist passionate about extracting insights and building data-driven solutions. Skilled in Python, SQL, Machine Learning, Deep Learning, Power BI, and Tableau, with experience across recommendation systems, search relevance modeling, inventory optimization & forecasting, review intent analysis, and OCR-based PDF data extraction. I’ve also created several automation workflows and interactive dashboards that streamline decision-making and reporting.
 
 ## 💼 Skills
 
