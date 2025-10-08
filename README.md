@@ -1,17 +1,18 @@
 ## Hi there! 👋 I'm Mukul Bhele
 ## 🚀 About Me
-I am a Data Analyst with a passion for data-driven insights and problem-solving. I possess strong data analytics skills. Proficient in data manipulation and analysis, I am adept at extracting meaningful insights from complex datasets using tools such as Python, SQL, Excel, Tableau & Power-BI. I have worked upon different real world projects including Advance Vehicle Telematics, C3.ai Energy Management, Medical Inventory Optimization and Fitness Activity Metrics Analysis.
+I’m a Data Scientist passionate about extracting insights and building data-driven solutions. Skilled in Python, SQL, Excel, Power BI, and Tableau, with experience across recommendation systems, search relevance modeling, inventory optimization & forecasting, review intent analysis, and OCR-based PDF data extraction. I’ve also created several automation workflows and interactive dashboards that streamline decision-making and reporting.
 
 ## 💼 Skills
 
- - Languages: Python, SQL, R, C, C++
- - Databases: PostgreSQL
- - Visualisation Tools: Tableau, Power-BI, Microsoft Excel
- - Frontend: HTML, CSS, Java Script
  - Soft Skills: Data Storytelling, Time Management, Leadership, Teamwork, Communication, Presentation
+ - Languages: Python, SQL, R, C, C++
+ - Databases/Data Warehouse: Databricks, PostgreSQL, SQL Server, Google BigQuery, SSMS, Azure Data Studio
+ - Visualisation Tools: Power-BI, Databricks AI/BI, Metabase, Tableau, Looker Studio, Microsoft Excel
+ - Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
+ - Automation Tools: Power Automate, Github Actions, Azure Dev-Ops
 
 ## 📫 Contact Me
 Let's connect and conjure something amazing together:
 - LinkedIn: [@mukulbhele](https://www.linkedin.com/in/mukulbhele/)
 - Email: [bhelemukul@gmail.com](mailto:bhelemukul@gmail.com)
-
+- Resume : [Resume]()
