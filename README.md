@@ -5,7 +5,7 @@ I’m a Data Scientist with 1.5+ years of experience passionate about extracting
 ## 💼 Skills
  - Languages: Python, SQL, R, C, C++
  - Databases/Data Warehouse: Databricks, PostgreSQL, SQL Server, Google BigQuery, SSMS, Azure Data Studio
- - Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, Streamlit, FastAPI
+ - Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, Streamlit, Dash, FastAPI
  - Visualisation Tools: Power-BI, Databricks AI/BI, Metabase, Tableau, Looker Studio, Microsoft Excel
  - Automation Tools: Power Automate, Github Actions, Azure Dev-Ops
  - Soft Skills: Data Storytelling, Time Management, Leadership, Teamwork, Communication, Presentation
